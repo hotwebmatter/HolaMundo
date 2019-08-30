@@ -38,7 +38,7 @@ namespace HolaMundo
                         WriteMenu(message);
                         break;
                     case 2:
-                        message = "Hola Mundo! Mi Nombre es Matt Obert!";
+                        message = "¡Hola Mundo! ¡Mi Nombre es Matt Obert!";
                         WriteMenu(message);
                         break;
                     case 3:
