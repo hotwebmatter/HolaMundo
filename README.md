@@ -1,2 +1,2 @@
 # HolaMundo
-First assignment for C# class
+First programming exercise for C# class
