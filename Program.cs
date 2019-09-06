@@ -1,6 +1,3 @@
-using System;
-using static System.Console;
-
 /**
  * ######################################################
  * ##    Programming Assignment #1                     ##
@@ -9,6 +6,9 @@ using static System.Console;
  * ##    Purpose: Hello world in three languages.      ##
  * ######################################################
  */
+
+using System;
+using static System.Console;
 
 namespace HolaMundo
 {
