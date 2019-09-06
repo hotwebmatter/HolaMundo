@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using static System.Console;
 
 /**
@@ -6,7 +6,7 @@ using static System.Console;
  * ##    Programming Assignment #1                     ##
  * ##    Developer: Matthew Obert                      ##
  * ##    Date Submitted: September 06 2019             ##
- * ##    Purpose: Hello world in several languages     ##
+ * ##    Purpose: Hello world in three languages.      ##
  * ######################################################
  */
 
